@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shop-admin
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue
+vue项目
+>>>>>>> 181d1a9ecd471226aa117b5bbf9e907c45f29aee
